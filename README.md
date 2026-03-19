@@ -1,4 +1,4 @@
-# Minecraft Championship - By J.M & R.B
+# Minecraft Championship - By J.M & R.B (Preview)
 
 Please see the 'Screenshots' folder :)
 
