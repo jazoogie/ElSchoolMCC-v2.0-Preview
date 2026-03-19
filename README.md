@@ -1,12 +1,14 @@
 # Minecraft Championship - By J.M & R.B (Preview)
 
-Please see the 'Screenshots' folder :)
+## Overview
+ - This is a preview version of the ElSchool MCC (a nickname for the tournament), which doesn't include any world files, only mcfunction files - to keep the world itself private.
+ - Please see the 'Screenshots' folder for visuals on the minigames :)
 
 ## Credits
 Maps by **Rune Britz** and programming by **Jesse Mogg** - fully finished (v2.0) on the 12th of December, 2025.
 
 ## Minigame Overviews
-*Paragraphs written by Rune and I to describe each minigame to the contestants before they are commenced. These are not intended as proper descriptions of each game, but rather as rule explanations to people who are mostly already familiar with the basic concepts.*
+*These are brief paragraphs written by Rune and I to describe each minigame to the contestants before they are commenced. These are not intended as proper descriptions of each game, but rather as rule explanations to people who are mostly already familiar with the basic concepts.*
 
 ### Battle Box
 In Battle Box, teams win by filling in the 3x3 wool centre with their team’s coloured wool and preventing the opposing team from doing so, whether that be through PvP or sneaky tactics. 
