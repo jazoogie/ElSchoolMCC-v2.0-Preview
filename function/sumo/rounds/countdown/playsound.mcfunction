@@ -1,0 +1,2 @@
+execute if score $countdown sumo_data matches 1.. run playsound minecraft:block.note_block.pling player @a ~ ~ ~ 10
+execute if score $countdown sumo_data matches 0 run playsound minecraft:block.note_block.pling player @a ~ ~ ~ 10 2

@@ -1,0 +1,2 @@
+# kb_level is a macro parameter, allowing us to dynamically choose the kb_level rather than using many conditionals
+$item replace entity @s container.0 with stick[enchantments={"minecraft:knockback":$(kb_level)},item_name={"color":"dark_red","text":"baton"}]
